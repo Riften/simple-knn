@@ -15,6 +15,7 @@
 #include "device_launch_parameters.h"
 #include "simple_knn.h"
 #include <cfloat>
+#include <float.h>
 #include <cub/cub.cuh>
 #include <cub/device/device_radix_sort.cuh>
 #include <vector>
